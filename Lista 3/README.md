@@ -9,4 +9,4 @@ Include the following:
 
 * [L3 pages](https://github.com/JoaoPCalazans/Ondas-e-Linhas/tree/main/Lista%203/L3%20pages) (Folder): Include the originals PNGs to the paper scanning for the first 5 pages.
 
-* [PTC3314 exercícios](https://github.com/JoaoPCalazans/Ondas-e-Linhas/tree/main/Lista%203/PTC3314%20exercícios) (Markdown): A link to a colab with exercises 16, 27 and 28 [from 3rd list].
+* [https://colab.research.google.com/drive/1QAXok2GMVJX3W_t1qCMyp_uZeJlQveTI?usp=sharing](https://colab.research.google.com/drive/1QAXok2GMVJX3W_t1qCMyp_uZeJlQveTI?usp=sharing) (link): A link to a colab with selected exercises for disciplines' 2nd exam. Among them, 16, 27 and 28 [from 3rd list]. A USP account is necessary to access.
