@@ -5,7 +5,7 @@ Include the following:
 
 * [Enunciado_Lista_2](https://github.com/JoaoPCalazans/Ondas-e-Linhas/blob/main/Lista%202/Enunciado%20Lista%202.pdf) (PDF): Statement for the exercises, 2007/2016 version but directly correspont to whats presented in resolutons.
 
-* [Lista 2](https://github.com/JoaoPCalazans/Ondas-e-Linhas/blob/main/Lista%202/Lista%202.pdf) (PDF): Proper resolutions to the exercises, as presented in the statement archive.
+* [Lista 2](https://github.com/JoaoPCalazans/Ondas-e-Linhas/blob/main/Lista%202/Lista%202.pdf) (PDF): Proper resolutions to the exercises, as presented in the statement archive. A corrected version of exercise 22 is available [here](https://colab.research.google.com/drive/1QAXok2GMVJX3W_t1qCMyp_uZeJlQveTI?usp=sharing) (USP account necessary).
 
 * [Lista 2_photo](https://github.com/JoaoPCalazans/Ondas-e-Linhas/blob/main/Lista%202/Lista%202_photo.pdf) (PDF): Original version of the PDF resolution, made out of direct photos uploads.
 
