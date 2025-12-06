@@ -5,7 +5,7 @@ Include the following:
 
 * [Enunciado_Lista_3](https://github.com/JoaoPCalazans/Ondas-e-Linhas/blob/main/Lista%203/Enunciado%20Lista%203.pdf) (PDF): Statement for the exercises, 2007/2016 version but directly correspont to whats presented in resolutons.
 
-* [Lista 3](https://github.com/JoaoPCalazans/Ondas-e-Linhas/blob/main/Lista%203/L3%20(até%20a%2025).pdf) (PDF): Proper resolutions to the exercises, as presented in the statement archive. It is only completed until exercise 25 (sorry, I'm just one).
+* [L3 (até a 29)](https://github.com/JoaoPCalazans/Ondas-e-Linhas/blob/main/Lista%203/L3%20(até%20a%2029).pdf) (PDF): Proper resolutions to the exercises, as presented in the statement archive. It is only completed until exercise 29 (sorry, I'm just one).
 
 * [L3 pages](https://github.com/JoaoPCalazans/Ondas-e-Linhas/tree/main/Lista%203/L3%20pages) (Folder): Include the originals PNGs to the paper scanning for the first 5 pages.
 
