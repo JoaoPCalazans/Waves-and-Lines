@@ -14,9 +14,11 @@
 
 * **[Lista 2](https://github.com/JoaoPCalazans/Ondas-e-Linhas/tree/main/Lista%202):** Discipline's second list of exercises. Include resolution.
 
-* **[Lista 3](https://github.com/JoaoPCalazans/Ondas-e-Linhas/tree/main/Lista%203):** Discipline's third list of exercises.
+* **[Lista 3](https://github.com/JoaoPCalazans/Ondas-e-Linhas/tree/main/Lista%203):** Discipline's third list of exercises. Include resolution.
 
-* **[Ondas_Linhas](https://github.com/JoaoPCalazans/Ondas-e-Linhas/blob/main/Ondas_Linhas.pdf):** Professor Dr. Paulo Antonio Mariotto's *Introduction to Waves and Lines* book.
+* **[Linhas e Ondas 2025b](https://github.com/JoaoPCalazans/Waves-and-Lines/blob/main/Linhas%20e%20Ondas%202025b.pdf):** Professor Dr. Luiz Cezar Trintinalia's *Waves and Lines* handout.}
+
+* **[Ondas_Linhas](https://github.com/JoaoPCalazans/Ondas-e-Linhas/blob/main/Ondas_Linhas.pdf):** Professor Dr. Paulo Antonio Mariotto's *Introduction to Waves and Lines* book.}
 
 * **[abaco de smith](https://github.com/JoaoPCalazans/Ondas-e-Linhas/blob/main/abaco%20de%20smith.pdf):** A PDF containing a Smith Chart.
 
