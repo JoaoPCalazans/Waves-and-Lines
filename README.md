@@ -10,11 +10,11 @@
 
 ## Table of Contents
 
-* **[Lista 1](https://github.com/JoaoPCalazans/Ondas-e-Linhas/tree/main/Lista%201):** Discipline's first list of exercises. Include resolution.
+* **[Lista 1](https://github.com/JoaoPCalazans/Ondas-e-Linhas/tree/main/Lista%201):** Discipline's first list of exercises. Includes resolution.
 
-* **[Lista 2](https://github.com/JoaoPCalazans/Ondas-e-Linhas/tree/main/Lista%202):** Discipline's second list of exercises. Include resolution.
+* **[Lista 2](https://github.com/JoaoPCalazans/Ondas-e-Linhas/tree/main/Lista%202):** Discipline's second list of exercises. Includes resolution.
 
-* **[Lista 3](https://github.com/JoaoPCalazans/Ondas-e-Linhas/tree/main/Lista%203):** Discipline's third list of exercises. Include resolution.
+* **[Lista 3](https://github.com/JoaoPCalazans/Ondas-e-Linhas/tree/main/Lista%203):** Discipline's third list of exercises. Includes resolution.
 
 * **[Linhas e Ondas 2025b](https://github.com/JoaoPCalazans/Waves-and-Lines/blob/main/Linhas%20e%20Ondas%202025b.pdf):** Professor Dr. Luiz Cezar Trintinalia's *Waves and Lines* handout.
 
